@@ -1,0 +1,9 @@
+R:\Code\Tutorial1\Tutorial1\bin\Debug\Tutorial1.XML
+R:\Code\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+R:\Code\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+R:\Code\Tutorial1\Tutorial1\bin\Debug\FSharp.Core.dll
+R:\Code\Tutorial1\Tutorial1\bin\Debug\System.ValueTuple.dll
+R:\Code\Tutorial1\Tutorial1\bin\Debug\FSharp.Core.xml
+R:\Code\Tutorial1\Tutorial1\obj\Debug\Tutorial1.fsproj.CoreCompileInputs.cache
+R:\Code\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+R:\Code\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb

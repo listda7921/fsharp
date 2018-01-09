@@ -1,0 +1,10 @@
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\System.ValueTuple.dll
+R:\Code\Tutorial1\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+R:\Code\Tutorial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.fsproj.CoreCompileInputs.cache
+R:\Code\Tutorial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+R:\Code\Tutorial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
